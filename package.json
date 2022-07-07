@@ -1,0 +1,23 @@
+{
+  "name": "scrapping_offre_emploi",
+  "version": "1.0.0",
+  "description": "job search database",
+  "main": "app.js",
+  "scripts": {
+    "start": "node serveur/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "scrapping_offre_emploi"
+  },
+  "keywords": [
+    "job",
+    "api",
+    "search"
+  ],
+  "author": "Levasseur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
