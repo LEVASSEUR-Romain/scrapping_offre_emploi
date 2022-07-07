@@ -9,3 +9,7 @@
 // git status // regarder le statut actuel
 // git remote add origin url  // pour recuperer le git init de l'url
 // git fetch // tcheck sur origin le nouvelle ref de fichier (les ref pas le code)
+// git branch // les branches
+// git branch -D ... // suprime une branche
+// git checkout -b ... // nouvelle branche
+// git push origin nom branche
